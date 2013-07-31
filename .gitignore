@@ -13,4 +13,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-vendor/bundle
+.env
+/solr/data/*
+/solr/pids/*
+*.DS_Store
